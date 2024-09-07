@@ -1,5 +1,7 @@
 == Ordnung zur Zuordnung der Studierenden zu den Fachschaften der Studierendenschaft der Heinrich-Heine-Universität Düsseldorf (Zuordnungsordnung – ZOO)
 
+include::util::disclaimer.adoc[]
+
 === § 1 Geltungsbereich
 Diese Ordnung regelt die Zuordnung der Studierenden zu den Fachschaften der Studierendenschaft. Sie regelt zudem die Änderung dieser Zuordnung durch die FSVK.
 
