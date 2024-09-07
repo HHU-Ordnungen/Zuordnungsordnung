@@ -1,5 +1,5 @@
-name: ordnung
-title: Ordnung
+name: zuordnungsordnung
+title: Zuordnungsordnung
 version: 0
 nav:
 - modules/nav.adoc
